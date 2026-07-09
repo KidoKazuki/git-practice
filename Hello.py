@@ -1,1 +1,4 @@
-print("Hello, Git!") #単純な処理
+def greet(name): # 処理の関数化
+    print("Hello, {name}!") 
+
+greet("Git")
