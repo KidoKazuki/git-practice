@@ -1,0 +1,1 @@
+print("Hello, Git!") #単純な処理
